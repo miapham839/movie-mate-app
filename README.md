@@ -1,6 +1,7 @@
 # 🎬 Movie-Mate #
 
 A content-based movie recommender app built with Python and Streamlit. It suggests similar movies based on plot, genre, cast, keywords, and director, with posters pulled from the TMDb API.
+
 Check it out here!
 https://movie-mate-miapham839.streamlit.app/
 
